@@ -7,3 +7,5 @@ Makefile
 dist/
 .vscode
 database.yml
+
+frontApp
